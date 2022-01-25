@@ -1,0 +1,1 @@
+Compilação >  gcc -o jantar_dos_filosofos.o jantar_dos_filosofos.c -pthread
